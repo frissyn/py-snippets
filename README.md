@@ -1,5 +1,5 @@
 # py-snippets
-A personal collection python related code snippets. Includes a wide variety of useful/useless code samples.
+A personal collection of python related code snippets. Includes a wide variety of useful/useless code samples.
 
 ## Snippet Index
 
