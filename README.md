@@ -1,5 +1,7 @@
 # py-snippets
-A personal collection of python related code snippets. Includes a wide variety of useful/useless code samples.
+A personal collection of python related code snippets. Includes a wide variety of useful/useless code samples. Comes with a simple interactive CLI!
+
+![CLI Showcase](https://raw.githubusercontent.com/IreTheKID/py-snippets/main/assets/showcase.gif)
 
 ## Snippet Index
 
