@@ -5,6 +5,9 @@ A personal collection of python related code snippets. Includes a wide variety o
 
 ## Snippet Index
 
+#### [`auto(string)`](https://github.com/IreTheKID/py-snippets/blob/main/snippets/auto.py)
+Dynamically interprets the type of given string using `eval`.
+
 #### [`@elapsed(function)`](https://github.com/IreTheKID/py-snippets/blob/main/snippets/elapsed.py)
 Decorator that outputs the time elapsed during the given function.
 
