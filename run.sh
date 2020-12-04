@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo -n "Enter snippet name >> "; read name
+echo -n "Snippet Name >> "; read name
 
 if python "snippets/$name.py"; then
-    printf "\n\nSnippet '$name' run successfully.\n"
+    printf "\n\nSnippet '$name.py' run successfully.\n"
 else
-    printf "\n\nAn error occured while running '$name'\n"
+    printf "\n\nAn error occured while running '$name.py'\n"
     exit 1
 fi
