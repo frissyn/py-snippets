@@ -14,6 +14,6 @@ l = [i for i in range(25)]
 print("Split into chunks in one go!")
 pp.pprint(chunks(l, 10))
 
-print("Loop through each chuck!")
+print("Loop through each generated chunk!")
 for chunk in gen_chunks(l, 10):
     pp.pprint(chunk)
